@@ -4,7 +4,6 @@
 
 ### Çözebilen geri dönüş sağlarsa çok sevinirim!
 
-![İmage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.polygon.com%2F2014%2F8%2F19%2F6005949%2Fpikachu-gifs&psig=AOvVaw2xDnFP5SdF_RMQh01WliYi&ust=1672496666972000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOik0N_FofwCFQAAAAAdAAAAABAJ)
 
 >Sağ panel en alt bölüm
 ```
