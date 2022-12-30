@@ -1,0 +1,106 @@
+.in-logo {
+    font-size: 2.4em;
+    color: #0077b5;
+}
+nav {
+    height: 70px;
+}
+.list-ico {
+    font-size: 1.6em;
+}
+.hr {
+    position: relative;
+    left: 22px;
+    bottom: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.345);
+    height: 55px;
+}
+.search-ico  {
+    background-color: #dfecf3;
+    border: none;
+}
+.form {
+    display: block;
+    width: 270px;
+}
+
+/* Content */
+body {
+    background-color: #F3F2EF;
+}
+
+/* Sol Panel */
+
+.container {
+    max-width: 1300px;
+}
+.img-position {
+    position: relative;
+    bottom:2.5em;
+    border: 3px solid white;
+}
+.card-name {
+    position: relative;
+    bottom: 1em;
+}
+.description {
+    text-align:center;
+    position: relative;
+    bottom:1em;
+}
+.card-middle {
+    font-size: 14px;
+}
+
+/* Orta Panel */
+
+
+
+.fotograf {
+    color:#70B5F9;
+}
+.video {
+    color:#7FC15E;
+}
+.event {
+    color: #E7A33E;
+}
+.write {
+    color:#F5987E;
+}
+
+.card-middle-content button {
+    margin-left: 30px;
+    margin-top:3px;
+}
+.photo-description {
+    font-size:14px;
+}
+.photo-description small {
+    opacity:0.6;
+}
+
+/* Sağ Panel */
+
+.sag-item a {
+    border-radius: 30px;
+}
+.sol-item a {
+    text-decoration: none;
+}
+.item-descript {
+    font-size:14px;
+}
+.center {
+    text-align: center;
+}
+
+.dip {
+    position: fixed;
+    bottom: 0;
+    right: 25px;
+}
+.sag-yer i {
+    font-size: 20px;
+    padding:5px;
+}
